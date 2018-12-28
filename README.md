@@ -5,6 +5,6 @@
     
 */
 
-# Basic-Guide-to-Natural-Language-Processing-with-NLTK
+# Basic-Guide-to-Natural-Language-Processing-with-NLTK-and-Spacy
 
 A basic guide to implement fundamental NLP techniques like text normalization, text similarity, WordNet etc... through NLTK library and Spacy.
